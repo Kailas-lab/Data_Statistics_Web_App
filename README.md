@@ -1,6 +1,6 @@
 # Project Description for "Data Statistics Web App"
 
-!(image.png)
+![Image](image.png)
 
 This Data Statistics Web App is a Streamlit-based web application that allows users to upload an Excel file and explore various statistical metrics and visualizations for a selected column. It supports different types of data, including categorical, numerical, and date-based columns, and provides a simple interface for data analysis.
 
